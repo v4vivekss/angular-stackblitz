@@ -1,3 +1,3 @@
 # angular-StackBlitz-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-wfhieb)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-tour-of-heroes-stackblitz)
