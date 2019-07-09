@@ -1,3 +1,3 @@
-# angular-wfhieb
+# angular-StackBlitz-app
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-wfhieb)
